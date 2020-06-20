@@ -5,9 +5,9 @@
 
 Photowall is a responsive [React](http://facebook.github.io/react/index.html) app that uses [Firebase](https://firebase.google.com/) to store and load data.
 
-![](https://github.com/Johntizy/Photowall/tree/master/src/demo2.PNG)
-![](https://github.com/Johntizy/Photowall/tree/master/src/demo.PNG)
-![](https://github.com/Johntizy/Photowall/tree/master/src/demo3.PNG)
+![](https://github.com/Johntizy/Photowall/blob/master/src/demo2.PNG)
+![](https://github.com/Johntizy/Photowall/blob/master/src/demo.PNG)
+![](https://github.com/Johntizy/Photowall/blob/master/src/demo3.PNG)
 
 ## Demo
 [Photowall - Live DEMO](https://myphotos005.herokuapp.com)
@@ -20,11 +20,6 @@ Key tools used in this React project are:
 | [React](http://facebook.github.io/react/index.html) | A JavaScript library for building user interfaces |
 | [Redux](https://redux.js.org) | A Predictable State Container for JS Apps |
 | [Firebase](https://firebase.google.com/) | Firebase gives you the tools to develop high-quality apps, grow your user base, data storage |
-
-## Installation
-[node.js](http://nodejs.org/download/) is required to get ``npm``.
-
-If you would like to download the code and try it for yourself:
 
 ## Browser Support
 This project makes supports all browsers
