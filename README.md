@@ -22,10 +22,7 @@ Key tools used in this React project are:
 | [Firebase](https://firebase.google.com/) | Firebase gives you the tools to develop high-quality apps, grow your user base, data storage |
 
 ## Browser Support
-This project makes supports all browsers
-
-## Node.js
-Supports LTS version (v6).
+This project supports all browsers
 
 ## Author
 Taiwo John Tunde
